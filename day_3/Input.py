@@ -1,0 +1,18 @@
+name = ""
+age = ""
+color = ""
+number = ""
+
+print("please enter your name:")
+name = input()
+print("please enter your age:")
+age = input()
+print("please enter your favorite color:")
+color = input()
+print("please enter your favorite number:")
+number = input()
+
+print("Hello my name is", name)
+print("I am", age, "years old")
+print("My favorite color is", color)
+print("My favorite number is", number)
