@@ -1,8 +1,3 @@
-name = ""
-age = ""
-color = ""
-number = ""
-
 print("please enter your name:")
 name = input()
 print("please enter your age:")
