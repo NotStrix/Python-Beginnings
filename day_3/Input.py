@@ -1,11 +1,8 @@
-print("please enter your name:")
-name = input()
-print("please enter your age:")
-age = input()
-print("please enter your favorite color:")
-color = input()
-print("please enter your favorite number:")
-number = input()
+
+name = input("Please enter your name:")
+age = input("Please enter your age:")
+color = input("Please enter your favorite color:")
+number = input("Please enter your favorite number:")
 
 print("Hello my name is", name)
 print("I am", age, "years old")
